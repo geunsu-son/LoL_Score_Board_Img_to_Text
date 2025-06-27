@@ -7,7 +7,6 @@ import numpy as np
 import pandas as pd
 from io import BytesIO
 import shutil
-from modules.streamlit_utils import sidebar_info
 
 # streamlit config
 st.set_page_config(
